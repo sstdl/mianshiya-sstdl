@@ -5,7 +5,7 @@ import { Button } from "antd";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Button type="primary">Primary Button</Button>
+      <Button type="primary">题库</Button>
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
